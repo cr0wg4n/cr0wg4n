@@ -1,6 +1,3 @@
-### Hi, I'm Mauricio Matias C.
-
-
 ## Social Networks
 
 [<img align="left" alt="mauricio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
