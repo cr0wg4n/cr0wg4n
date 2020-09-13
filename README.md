@@ -11,6 +11,8 @@
 - [Django Auth (Roles y Modelo Relacional)](https://medium.com/@cr0wg4n/django-auth-roles-y-modelo-relacional-9f10ef344f5b?source=rss-b402714ccae1------2)
 - [Automatizando Tareas Aburridas con Python (Organizador de Directorios)](https://medium.com/@cr0wg4n/automatizando-tareas-aburridas-con-python-organizador-de-directorios-7ed9b6a4dfe?source=rss-b402714ccae1------2)
 - [LaTeX y Visual Studio Code (Guía de Instalación)](https://medium.com/@cr0wg4n/latex-y-visual-studio-code-gu%C3%ADa-de-instalaci%C3%B3n-ca8bef3935e3?source=rss-b402714ccae1------2)
+- [Como corregir un “heap out of memory” en Node.js](https://medium.com/@cr0wg4n/como-corregir-un-heap-out-of-memory-en-node-js-5e370fd1897?source=rss-b402714ccae1------2)
+- [Antena Yagi de 433Mhz — DIY](https://medium.com/@cr0wg4n/antena-yagi-de-433mhz-diy-bd568013c3fc?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
