@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cr0wg4n&count_private=true&show_icons=true&theme=default&hide=issues&hide_border=true" />
   </a>
   <a href="/cr0wg4n" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&layout=compact&hide_border=true&langs_count=10&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&layout=compact&hide_border=true&langs_count=8&theme=default" />
   </a>
 </div>
 
