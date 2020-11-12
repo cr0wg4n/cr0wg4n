@@ -19,10 +19,10 @@
 
 <div>
   <a href="/cr0wg4n" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cr0wg4n&count_private=true&show_icons=true&icon_color=586069&title_color=42a4f0&text_color=586069&hide=issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cr0wg4n&count_private=true&show_icons=true&theme=default&hide=issues&hide_border=true" />
   </a>
   <a href="/cr0wg4n" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&text_color=586069&layout=compact&hide_border=true&title_color=42a4f0&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&layout=compact&hide_border=true&langs_count=10&theme=default" />
   </a>
 </div>
 
