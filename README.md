@@ -15,6 +15,7 @@
 - [Antena Yagi de 433Mhz — DIY](https://medium.com/@cr0wg4n/antena-yagi-de-433mhz-diy-bd568013c3fc?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## Stats
 
 <div>
@@ -25,6 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0wg4n&layout=compact&hide_border=true&langs_count=8&theme=default&hide=css,html" />
   </a>
 </div>
-
+-->
 [website]: https://medium.com/@cr0wg4n
 [linkedin]: https://www.linkedin.com/in/mauricio-matias-conde-a541901a6/
