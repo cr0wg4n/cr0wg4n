@@ -13,5 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@cr0wg4n"
-          max_post_count: 8
+          max_post_count: 10
           commit_message: "new medium post"
