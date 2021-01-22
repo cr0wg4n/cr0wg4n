@@ -1,7 +1,8 @@
 ## Social Networks
 
-[<img align="left" alt="mauricio" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
-[<img align="left" alt="mauricio | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="mauricio | medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
+[<img align="left" alt="mauricio | linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="mauricio | itch.io" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
 <br />
 
 ## Latest Blog Posts 
@@ -29,3 +30,5 @@
 -->
 [website]: https://medium.com/@cr0wg4n
 [linkedin]: https://www.linkedin.com/in/mauricio-matias-conde-a541901a6/
+[itch]: https://cr0wg4n.itch.io/
+
