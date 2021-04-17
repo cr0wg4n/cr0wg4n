@@ -1,8 +1,8 @@
 ## Social Networks
 
-[<img align="left" alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
-[<img align="left" alt="mauricio | linkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="mauricio | itch.io" target="_blank" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
+[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
+[<img alt="mauricio | linkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="mauricio | itch.io" target="_blank" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
 <br />
 
 ## Latest Blog Posts 
