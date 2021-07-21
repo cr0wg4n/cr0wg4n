@@ -7,6 +7,7 @@
 
 ## Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Tu primera lib de Python ft. PyPI](https://cr0wg4n.medium.com/tu-primera-lib-de-python-ft-pypi-2f918e62d856?source=rss-b402714ccae1------2)
 - [Palabras Vacías en Español (stop words) ft Python](https://cr0wg4n.medium.com/palabras-vac%C3%ADas-en-espa%C3%B1ol-stop-words-ft-python-3117e52d2bff?source=rss-b402714ccae1------2)
 - [Automatizando Tareas Aburridas con Python (Ejercítate en Casa) ft. WGER](https://cr0wg4n.medium.com/automatizando-tareas-aburridas-con-python-ejerc%C3%ADtate-en-casa-ft-wger-1ea979acb63b?source=rss-b402714ccae1------2)
 - [Documenta tu “Proyecto de Grado” con LaTeX sin morir en el intento ft. Normas APA](https://cr0wg4n.medium.com/documenta-tu-proyecto-de-grado-con-latex-sin-morir-en-el-intento-ft-normas-apa-15bf50a2ee01?source=rss-b402714ccae1------2)
@@ -16,7 +17,6 @@
 - [Como corregir un “heap out of memory” en Node.js](https://cr0wg4n.medium.com/como-corregir-un-heap-out-of-memory-en-node-js-5e370fd1897?source=rss-b402714ccae1------2)
 - [Antena Yagi de 433Mhz — DIY](https://cr0wg4n.medium.com/antena-yagi-de-433mhz-diy-bd568013c3fc?source=rss-b402714ccae1------2)
 - [Convirtiendo un teclado musical barato en uno MIDI](https://cr0wg4n.medium.com/convirtiendo-un-teclado-musical-barato-en-uno-midi-d0c9893390b8?source=rss-b402714ccae1------2)
-- [Controlando Tiras LED con FastLED en Nodemcu (ESP-8266)](https://cr0wg4n.medium.com/controlando-tiras-led-con-fastled-en-nodemcu-esp-8266-f20445735a22?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
