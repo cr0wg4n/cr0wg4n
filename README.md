@@ -1,3 +1,4 @@
+[![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n)
 ## Social Networks
 
 [<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
