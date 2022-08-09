@@ -8,6 +8,7 @@
 <br />
 
 ## Latest Blog Posts 
+- [Vue Security Best Practices 💎](https://dev-academy.com/vue-security-best-practices/)
 - [Avoid XSS Attacks 🗡️ in Vue](https://dev-academy.com/vue-xss/)
 <!-- BLOG-POST-LIST:START -->
 - [Es un buen momento para hablar de ideales en el mundo del Software](https://cr0wg4n.medium.com/es-un-buen-momento-para-hablar-de-ideales-en-el-mundo-del-software-f8f618a6bfb6?source=rss-b402714ccae1------2)
