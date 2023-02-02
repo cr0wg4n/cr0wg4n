@@ -11,6 +11,7 @@
 - [Vue Security Best Practices 💎](https://dev-academy.com/vue-security-best-practices/)
 - [Avoid XSS Attacks 🗡️ in Vue](https://dev-academy.com/vue-xss/)
 <!-- BLOG-POST-LIST:START -->
+- [Método UV para la fabricación de PCBs](https://cr0wg4n.medium.com/m%C3%A9todo-uv-para-la-fabricaci%C3%B3n-de-pcbs-601fcebfd17e?source=rss-b402714ccae1------2)
 - [Pinout nRF51822 board HW-651](https://cr0wg4n.medium.com/pinout-nrf51822-board-hw-651-78da2eda8894?source=rss-b402714ccae1------2)
 - [Fastuto: Instalar Docker en LMDE 5](https://cr0wg4n.medium.com/fastuto-instalar-docker-en-lmde-5-aa3b5ad5ec88?source=rss-b402714ccae1------2)
 - [Es un buen momento para hablar de ideales en el mundo del Software](https://cr0wg4n.medium.com/es-un-buen-momento-para-hablar-de-ideales-en-el-mundo-del-software-f8f618a6bfb6?source=rss-b402714ccae1------2)
@@ -18,7 +19,6 @@
 - [Palabras Vacías en Español &lpar;stop words&rpar; ft Python](https://cr0wg4n.medium.com/palabras-vac%C3%ADas-en-espa%C3%B1ol-stop-words-ft-python-3117e52d2bff?source=rss-b402714ccae1------2)
 - [Automatizando Tareas Aburridas con Python &lpar;Ejercítate en Casa&rpar; ft. WGER](https://cr0wg4n.medium.com/automatizando-tareas-aburridas-con-python-ejerc%C3%ADtate-en-casa-ft-wger-1ea979acb63b?source=rss-b402714ccae1------2)
 - [Documenta tu “Proyecto de Grado” con LaTeX sin morir en el intento ft. Normas APA](https://cr0wg4n.medium.com/documenta-tu-proyecto-de-grado-con-latex-sin-morir-en-el-intento-ft-normas-apa-15bf50a2ee01?source=rss-b402714ccae1------2)
-- [Django Auth &lpar;Roles y Modelo Relacional&rpar;](https://cr0wg4n.medium.com/django-auth-roles-y-modelo-relacional-9f10ef344f5b?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
