@@ -1,15 +1,6 @@
-[![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n)
-## Social Networks
+<!-- [![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n) -->
 
-[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
-[<img alt="mauricio | linkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="mauricio | slides.com" target="_blank" src="https://img.shields.io/badge/slides-ebebeb?&style=for-the-badge&logo=slides&logoColor=pink" />][slides]
-[<img alt="mauricio | itch.io" target="_blank" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
-<br />
-
-## Latest Blog Posts 
-- [Vue Security Best Practices 💎](https://dev-academy.com/vue-security-best-practices/)
-- [Avoid XSS Attacks 🗡️ in Vue](https://dev-academy.com/vue-xss/)
+### My Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Método UV para la fabricación de PCBs](https://cr0wg4n.medium.com/m%C3%A9todo-uv-para-la-fabricaci%C3%B3n-de-pcbs-601fcebfd17e?source=rss-b402714ccae1------2)
 - [Pinout nRF51822 board HW-651](https://cr0wg4n.medium.com/pinout-nrf51822-board-hw-651-78da2eda8894?source=rss-b402714ccae1------2)
@@ -20,6 +11,15 @@
 - [Automatizando Tareas Aburridas con Python &lpar;Ejercítate en Casa&rpar; ft. WGER](https://cr0wg4n.medium.com/automatizando-tareas-aburridas-con-python-ejerc%C3%ADtate-en-casa-ft-wger-1ea979acb63b?source=rss-b402714ccae1------2)
 - [Documenta tu “Proyecto de Grado” con LaTeX sin morir en el intento ft. Normas APA](https://cr0wg4n.medium.com/documenta-tu-proyecto-de-grado-con-latex-sin-morir-en-el-intento-ft-normas-apa-15bf50a2ee01?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Social
+[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
+[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img alt="mauricio | linkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="mauricio | slides.com" target="_blank" src="https://img.shields.io/badge/slides-ebebeb?&style=for-the-badge&logo=slides&logoColor=pink" />][slides]
+[<img alt="mauricio | itch.io" target="_blank" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
+<br />
+
 
 <!--
 ## Stats
@@ -37,3 +37,4 @@
 [linkedin]: https://www.linkedin.com/in/mauricio-matias-conde-a541901a6/
 [itch]: https://cr0wg4n.itch.io/
 [slides]: https://slides.com/cr0wg4n/
+[twitter]: https://twitter.com/cr0wg4n/
