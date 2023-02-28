@@ -34,7 +34,7 @@
 </div>
 -->
 [website]: https://medium.com/@cr0wg4n
-[linkedin]: https://www.linkedin.com/in/mauricio-matias-conde-a541901a6/
+[linkedin]: https://www.linkedin.com/in/cr0wg4n/
 [itch]: https://cr0wg4n.itch.io/
 [slides]: https://slides.com/cr0wg4n/
 [twitter]: https://twitter.com/cr0wg4n/
