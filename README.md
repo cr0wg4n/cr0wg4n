@@ -1,6 +1,5 @@
 <!-- [![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n) -->
-
-### Latest Blog Posts 
+### 📰 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Do you need to land? &lpar;as a software developer&rpar;](https://cr0wg4n.medium.com/do-you-need-to-land-as-a-software-developer-1661fcb7d807?source=rss-b402714ccae1------2)
 - [Método UV para la fabricación de PCBs](https://cr0wg4n.medium.com/m%C3%A9todo-uv-para-la-fabricaci%C3%B3n-de-pcbs-601fcebfd17e?source=rss-b402714ccae1------2)
@@ -12,14 +11,18 @@
 - [Automatizando Tareas Aburridas con Python &lpar;Ejercítate en Casa&rpar; ft. WGER](https://cr0wg4n.medium.com/automatizando-tareas-aburridas-con-python-ejerc%C3%ADtate-en-casa-ft-wger-1ea979acb63b?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Social Media
-[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][website]
+### 🌐 Social Media
+
+[<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img alt="mauricio | medium" target="_blank" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="mauricio | linkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="mauricio | slides.com" target="_blank" src="https://img.shields.io/badge/slides-ebebeb?&style=for-the-badge&logo=slides&logoColor=pink" />][slides]
 [<img alt="mauricio | itch.io" target="_blank" src="https://img.shields.io/badge/itch.io-red?&style=for-the-badge&logo=itch.io&logoColor=white" />][itch]
 <br />
 
+### ➕ More?
+
+Check out my personal [website](https://cr0wg4n.github.io/)
 
 <!--
 ## Stats
@@ -33,7 +36,8 @@
   </a>
 </div>
 -->
-[website]: https://medium.com/@cr0wg4n
+
+[medium]: https://cr0wg4n.medium.com/
 [linkedin]: https://www.linkedin.com/in/cr0wg4n/
 [itch]: https://cr0wg4n.itch.io/
 [slides]: https://slides.com/cr0wg4n/
