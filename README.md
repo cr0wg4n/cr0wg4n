@@ -1,4 +1,4 @@
-Human as code 
+> Make it real
 <!-- [![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n) -->
 ### 📰 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
