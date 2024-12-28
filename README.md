@@ -2,6 +2,7 @@
 <!-- [![HitCount](https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat)](https://github.com/cr0wg4n) -->
 ### 📰 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What I’ve learned from 2024, as a Software Developer](https://cr0wg4n.medium.com/what-ive-learned-from-2024-as-a-software-developer-7d1adf9cf5b3?source=rss-b402714ccae1------2)
 - [My experience at CLEI 2024](https://cr0wg4n.medium.com/clei-my-experience-storytime-and-guide-to-apply-09e0fa485dd2?source=rss-b402714ccae1------2)
 - [Do you need to land? &lpar;as a software developer&rpar;](https://cr0wg4n.medium.com/do-you-need-to-land-as-a-software-developer-1661fcb7d807?source=rss-b402714ccae1------2)
 - [Método UV para la fabricación de PCBs](https://cr0wg4n.medium.com/m%C3%A9todo-uv-para-la-fabricaci%C3%B3n-de-pcbs-601fcebfd17e?source=rss-b402714ccae1------2)
@@ -9,7 +10,6 @@
 - [Fastuto: Instalar Docker en LMDE 5](https://cr0wg4n.medium.com/fastuto-instalar-docker-en-lmde-5-aa3b5ad5ec88?source=rss-b402714ccae1------2)
 - [Es un buen momento para hablar de ideales en el mundo del Software](https://cr0wg4n.medium.com/es-un-buen-momento-para-hablar-de-ideales-en-el-mundo-del-software-f8f618a6bfb6?source=rss-b402714ccae1------2)
 - [Tu primera lib de Python ft. PyPI](https://cr0wg4n.medium.com/tu-primera-lib-de-python-ft-pypi-2f918e62d856?source=rss-b402714ccae1------2)
-- [Palabras Vacías en Español &lpar;stop words&rpar; ft Python](https://cr0wg4n.medium.com/palabras-vac%C3%ADas-en-espa%C3%B1ol-stop-words-ft-python-3117e52d2bff?source=rss-b402714ccae1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Social Media
