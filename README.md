@@ -23,7 +23,7 @@
 
 ### ➕ More?
 
-Check out my personal [website](https://cr0wg4n.github.io/)
+Check out my personal [website](https://lowleveltech.com)
 
 <!--
 ## Stats
