@@ -1,5 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cr0wg4n&label=Profile%20views&color=60dae2&style=flat">
+
+
 Hi 👋, I’m **Mauricio**, a passionate senior software developer who wants to contribute to software that matters. I’m a big fan of open-source software and open-hardware initiatives. I truly believe that communication, clarity, and a human touch are essential foundations for understanding big problems and designing the right solutions.
 
 ### 📰 Latest Blog Posts 
