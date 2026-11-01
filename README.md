@@ -27,7 +27,7 @@ Hi 👋, I’m **Mauricio**, a passionate senior software developer who wants to
 
 ### ➕ More?
 
-Check out my personal [website](https://lowleveltech.com)
+Check out my personal [website](https://cr0wg4n.com)
 
 <!--
 ## Stats
